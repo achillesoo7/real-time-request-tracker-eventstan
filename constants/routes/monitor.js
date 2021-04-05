@@ -1,0 +1,1 @@
+exports.MONITOR_STATS = "/";
